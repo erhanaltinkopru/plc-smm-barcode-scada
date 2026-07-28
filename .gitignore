@@ -1,0 +1,26 @@
+# Visual Studio / C# gitignore files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Exclude packages folder but keep source code clean
+packages/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.docstates
+
+# Visual Studio 2015/2017/2019/2022 cache directory
+.vs/
+
+# Don't ignore the Publish folder at the root
+!/Publish/

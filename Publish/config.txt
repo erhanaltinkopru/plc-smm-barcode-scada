@@ -1,0 +1,10 @@
+Data Source=localhost\SQLEXPRESS;Initial Catalog=PC_DATA;Persist Security Info=True;User ID=erhan;Password=your_password;TrustServerCertificate=True
+500
+true
+false
+false
+false
+true
+Data Source=localhost\SQLEXPRESS;Initial Catalog=PC_DATA;Persist Security Info=True;User ID=erhan;Password=your_password;TrustServerCertificate=True
+192.168.0.10
+COM1
